@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> HOME </title>
+		
+		<link rel = "stylesheet" href = "mini.css" type="text/css" >
+    </head>
+    <body style="background-position-x: 50%; background-position-y: 90%;" >
+		<div id = "center_maker">
+			<header id = "page_header">
+				<img src = "logo2.png" alt = "logo image" width="200" height="140" class="logo" />
+				<h1 class="head_text"> <b> MEDICARE & MEDICINE TRACKING </b> </h1>
+				
+			</header>
+			
+			<nav id = "top_nav"> 
+				<ul>
+					<li> <a href = "Introduction.jsp" style="color:brown;"> HOME &nbsp; &nbsp; &nbsp; &nbsp; </a> </li>
+					<li> <a href = "search.jsp"> SEARCH &nbsp; &nbsp; &nbsp; &nbsp; </a> </li>
+					<li> <a href = "enter_details.jsp"> REGISTER &nbsp; &nbsp; &nbsp; &nbsp;  </a> </li>
+					<li> <a href = "login.jsp"> LOGIN </a> </li>
+                                        <li> <a href = "ABOUT.docx"> ABOUT </a> </li>
+                                        
+				</ul>
+			</nav>
+			<section id = "the_section">
+                            <br/>
+				<p> <h2> &nbsp; &nbsp; Congratulations for your decision to store/secure your medical record safely and securely. &nbsp; You can view it from anywhere in the world.  </h2> </p> 
+				<br/>
+                                <p> <h2> &nbsp; &nbsp; You can authorize your family doctor/family member to view your medical record if you want. &nbsp; In case of emergency, they can access our database for your medical record. </h2> </p>
+                                <br/>
+                                <p> <h2> &nbsp; &nbsp; You can access our database for knowing where required medicine will be available. </h2> </p>
+				<br/>
+                                <br/>
+                                <br/>
+				
+                                <br/>
+                                <br/>
+                                <br/>
+                                <br/>
+                                <br/>
+                                <br/>
+                                <br/>
+                                <br/>
+                                <br/>
+                                <br/>
+                                <br/>
+                                <br/>
+			</section>
+			
+	</div>	
+	</body>
+</html>
